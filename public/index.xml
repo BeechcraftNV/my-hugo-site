@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>https://BeechcraftNV.github.io/my-hugo-site-public/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Mar 2025 19:54:22 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://BeechcraftNV.github.io/my-hugo-site-public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://BeechcraftNV.github.io/my-hugo-site-public/posts/my-first-post.html</link>
       <pubDate>Thu, 27 Mar 2025 19:54:22 -0700</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://BeechcraftNV.github.io/my-hugo-site-public/posts/my-first-post.html</guid>
       <description>&lt;h1 id=&#34;welcome-to-my-hugo-test-page&#34;&gt;Welcome to My Hugo Test Page&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is a comprehensive markdown test page designed to showcase various formatting options and markdown elements. Hugo supports a wide range of markdown syntax, and this document will help you verify that everything is rendering correctly.&lt;/p&gt;&#xA;&lt;h3 id=&#34;headings&#34;&gt;Headings&lt;/h3&gt;&#xA;&lt;p&gt;You can see different heading levels demonstrated here. Hugo typically uses these for structuring content and creating hierarchy.&lt;/p&gt;&#xA;&lt;h4 id=&#34;subheading-level-4&#34;&gt;Subheading Level 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;subheading-level-5&#34;&gt;Subheading Level 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;subheading-level-6&#34;&gt;Subheading Level 6&lt;/h6&gt;&#xA;&lt;h2 id=&#34;text-formatting&#34;&gt;Text Formatting&lt;/h2&gt;&#xA;&lt;p&gt;Here are some examples of text formatting:&lt;/p&gt;</description>
     </item>
   </channel>

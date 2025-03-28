@@ -1,0 +1,11 @@
+baseURL = "https://BeechcraftNV.github.io/my-hugo-site-public/"
+##baseURL = "http://localhost:8000/"
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "ananke"
+
+relativeURLs = true
+uglyURLs = true
+
+canonifyURLs = true
+
