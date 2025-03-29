@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://BeechcraftNV.github.io/my-hugo-site-public/posts/my-first-post.html</loc>
+    <loc>//localhost:1313/posts/my-first-post.html</loc>
     <lastmod>2025-03-27T19:54:22-07:00</lastmod>
   </url><url>
-    <loc>https://BeechcraftNV.github.io/my-hugo-site-public/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-03-27T19:54:22-07:00</lastmod>
   </url><url>
-    <loc>https://BeechcraftNV.github.io/my-hugo-site-public/posts.html</loc>
+    <loc>//localhost:1313/posts.html</loc>
     <lastmod>2025-03-27T19:54:22-07:00</lastmod>
   </url><url>
-    <loc>https://BeechcraftNV.github.io/my-hugo-site-public/categories.html</loc>
+    <loc>//localhost:1313/categories.html</loc>
   </url><url>
-    <loc>https://BeechcraftNV.github.io/my-hugo-site-public/tags.html</loc>
+    <loc>//localhost:1313/tags.html</loc>
   </url>
 </urlset>
